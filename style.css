@@ -1,0 +1,76 @@
+h1 {
+    color: #8C5E58;
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    background-color:#F3F7F0
+}
+body {
+    background-color: rgb(241, 230, 215);
+}
+a {
+    background-color: antiquewhite;
+    color:beige;
+    padding: 10px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+a:hover {
+background-image: url("https://www.appdynamics.com/wp-content/uploads/2018/08/Anti-patterns-GettyImages-697162760.jpg")
+;
+background-position: center;
+transition: 15s;
+}
+h1:hover {
+    background-image: url("https://previews.123rf.com/images/fastfun23/fastfun231710/fastfun23171000558/88704647-black-snake-skin-pattern-texture-background.jpg")
+    ;
+    background-position: center;
+    transition: 5s;
+    }
+h1, h2, h3 {
+    font-weight: bold;
+  }
+h2, h3 {
+    background-image:none;
+    color: #B3B6B7;
+    font-size: 20px;
+    font-family: 'Caveat', cursive; 
+    background-color: #F3F7F0;
+  }
+
+  .card-white {
+    background-color: rgb(228, 221, 211);
+    color:rgb(15, 15, 14);
+    padding: 40px;
+    border-radius: 4px;
+    text-decoration: none;
+    text-align: center;   
+    box-shadow: #B3B6B7;
+  }
+
+  .wallpaper {
+    background-color: rgb(228, 221, 211);
+    color:rgb(15, 15, 14);
+    padding: 40px;
+    border-radius: 4px;
+    text-decoration: none;
+    text-align: center;   
+    box-shadow: #B3B6B7;
+    text-align: center;
+  }
+
+  .wallpaper:hover {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/715/552/929/nature-earth-crack-break-wallpaper-preview.jpg");
+    background-position: right;
+    transition: 30s;
+  }
+
+  .background ul {
+    margin: 0px;
+  }
+
+  .background:hover {
+    background-image: url("https://www.appdynamics.com/wp-content/uploads/2018/08/Anti-patterns-GettyImages-697162760.jpg");
+    background-position: right;
+    transition: 40s;
+  }
